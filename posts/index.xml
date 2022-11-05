@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Bruno Martins</title>
-        <link>localhost/posts/</link>
+        <link>bcm082.github.io/posts/</link>
         <description>Recent content in Posts on Bruno Martins</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sat, 05 Nov 2022 12:53:00 -0400</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="bcm082.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>My First Post</title>
-            <link>localhost/posts/my-first-post/</link>
+            <link>bcm082.github.io/posts/my-first-post/</link>
             <pubDate>Sat, 05 Nov 2022 12:53:00 -0400</pubDate>
             
-            <guid>localhost/posts/my-first-post/</guid>
+            <guid>bcm082.github.io/posts/my-first-post/</guid>
             <description>Test Post print(&amp;#34;Hello&amp;#34;) </description>
             <content type="html"><![CDATA[<h1 id="test-post">Test Post</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>

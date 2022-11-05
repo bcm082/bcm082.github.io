@@ -2,26 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/</loc>
-    <lastmod>2022-11-05T12:53:00-04:00</lastmod>
-  </url><url>
-    <loc>localhost/posts/my-first-post/</loc>
-    <lastmod>2022-11-05T12:53:00-04:00</lastmod>
-  </url><url>
-    <loc>localhost/posts/</loc>
-    <lastmod>2022-11-05T12:53:00-04:00</lastmod>
-  </url><url>
-    <loc>localhost/tags/</loc>
-    <lastmod>2022-11-05T12:53:00-04:00</lastmod>
-  </url><url>
-    <loc>localhost/tags/untagged/</loc>
-    <lastmod>2022-11-05T12:53:00-04:00</lastmod>
-  </url><url>
-    <loc>localhost/projects/</loc>
+    <loc>bcm082.github.io/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>localhost/blog/</loc>
+    <loc>bcm082.github.io/blog/</loc>
   </url><url>
-    <loc>localhost/series/</loc>
+    <loc>bcm082.github.io/</loc>
+  </url><url>
+    <loc>bcm082.github.io/series/</loc>
+  </url><url>
+    <loc>bcm082.github.io/tags/</loc>
   </url>
 </urlset>
