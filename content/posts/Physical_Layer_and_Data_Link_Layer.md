@@ -1,7 +1,8 @@
 ---
 title: "Physical Layer and Data Link Layer"
 date: 2023-04-12T14:47:25-04:00
-draft: true
+draft: false
+tags: ["Networks"]
 ---
 
 
