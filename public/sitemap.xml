@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.bcm082.github.io/about/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-08T12:02:57-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-08T12:02:57-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-04-04T10:59:54-04:00</lastmod>
   </url><url>
-    <loc>http://www.bcm082.github.io/</loc>
-    <lastmod>2023-04-04T10:59:54-04:00</lastmod>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://www.bcm082.github.io/projects/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://www.bcm082.github.io/archives/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://www.bcm082.github.io/categories/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>http://www.bcm082.github.io/search/</loc>
-  </url><url>
-    <loc>http://www.bcm082.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bruno Martins</title>
-    <link>http://www.bcm082.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Bruno Martins</description>
     <image>
       <title>Bruno Martins</title>
-      <url>http://www.bcm082.github.io/papermod-cover.png</url>
-      <link>http://www.bcm082.github.io/papermod-cover.png</link>
+      <url>http://localhost:1313/papermod-cover.png</url>
+      <link>http://localhost:1313/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2023 10:59:54 -0400</lastBuildDate><atom:link href="http://www.bcm082.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jun 2024 12:02:57 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://www.bcm082.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 04 Apr 2023 10:59:54 -0400</pubDate>
       
-      <guid>http://www.bcm082.github.io/about/</guid>
-      <description>My name is Bruno Martins, a Computer Science student at Wayne State University in Detroit, Michigan, USA. I have a fervent passion for technology and an unwavering curiosity to learn and grow.
-Currently, I hold the position of E-Commerce Product Manager, where I have accumulated valuable experience in managing and optimizing product listings across multiple platforms such as Amazon Seller Central and Walmart Seller Center. My technical proficiency in Python, Scrapy, and MySQL has allowed me to develop innovative tools that have boosted sales by 20% YoY, enhanced customer satisfaction, and automated repetitive tasks to bolster productivity.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello! My name is Bruno Martins, a Computer Science graduate from Wayne State University in Detroit, Michigan, USA. I have a passion for technology and curiosity to learn and grow.
+Currently, I am a developer for an e-commerce company. I specialize in Python, automation, scraping, Flask, Django, and databases. My technical proficiency has allowed me to build numerous tools that enhance productivity, streamline processes, and improve overall efficiency. My work focuses on developing innovative solutions to optimize product listings, automate repetitive tasks, and boost sales and customer satisfaction.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.bcm082.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.bcm082.github.io/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
