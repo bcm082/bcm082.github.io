@@ -1,10 +1,8 @@
 ---
-title: "Barcode_qrcode_generator"
+title: "Create Your Own Barcode and QR Code Generator with Streamlit"
 date: 2024-06-08T12:02:57-04:00
 draft: false
 ---
-
-# Create Your Own Barcode and QR Code Generator with Streamlit
 
 In this tutorial on building your own Barcode and QR Code Generator using Python and Streamlit! This step-by-step guide will walk you through the process of creating a simple yet powerful application to generate barcodes and QR codes. Whether you're a beginner or have some coding experience, you'll find this tutorial easy to follow. Let's get started!
 
