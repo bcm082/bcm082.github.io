@@ -1,7 +1,7 @@
 ---
 title: "Barcode_qrcode_generator"
 date: 2024-06-08T12:02:57-04:00
-draft: true
+draft: false
 ---
 
 # Create Your Own Barcode and QR Code Generator with Streamlit
