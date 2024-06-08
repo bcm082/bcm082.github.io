@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bruno Martins</title>
+    <link>http://www.bcm082.github.io/</link>
+    <description>Recent content on Bruno Martins</description>
+    <image>
+      <title>Bruno Martins</title>
+      <url>http://www.bcm082.github.io/papermod-cover.png</url>
+      <link>http://www.bcm082.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 10:59:54 -0400</lastBuildDate><atom:link href="http://www.bcm082.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.bcm082.github.io/about/</link>
+      <pubDate>Tue, 04 Apr 2023 10:59:54 -0400</pubDate>
+      
+      <guid>http://www.bcm082.github.io/about/</guid>
+      <description>My name is Bruno Martins, a Computer Science student at Wayne State University in Detroit, Michigan, USA. I have a fervent passion for technology and an unwavering curiosity to learn and grow.
+Currently, I hold the position of E-Commerce Product Manager, where I have accumulated valuable experience in managing and optimizing product listings across multiple platforms such as Amazon Seller Central and Walmart Seller Center. My technical proficiency in Python, Scrapy, and MySQL has allowed me to develop innovative tools that have boosted sales by 20% YoY, enhanced customer satisfaction, and automated repetitive tasks to bolster productivity.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.bcm082.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.bcm082.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
