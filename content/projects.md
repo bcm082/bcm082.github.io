@@ -4,4 +4,6 @@ title: "Projects"
 
 ## Barcode Generator
 
-[![Barcode QR Code Generator](images/barcodeqrcodegenerator-thumbnail.png)](https://barcodeqrcodegenerator.streamlit.app)
+<a href="https://barcodeqrcodegenerator.streamlit.app" target="_blank">
+  <img src="/images/barcodeqrcodegenerator-thumbnail.png" alt="Barcode QR Code Generator">
+</a>
