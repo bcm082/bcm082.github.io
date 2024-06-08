@@ -5,17 +5,20 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-08T12:02:57-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/create-your-own-barcode-and-qr-code-generator/</loc>
+    <lastmod>2024-06-08T12:02:57-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-08T12:02:57-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-04-04T10:59:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>

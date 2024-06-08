@@ -13,6 +13,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 12:02:57 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Create Your Own Barcode and QR Code Generator with Streamlit</title>
+      <link>http://localhost:1313/posts/create-your-own-barcode-and-qr-code-generator/</link>
+      <pubDate>Sat, 08 Jun 2024 12:02:57 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/create-your-own-barcode-and-qr-code-generator/</guid>
+      <description>In this tutorial on building your own Barcode and QR Code Generator using Python and Streamlit! This step-by-step guide will walk you through the process of creating a simple yet powerful application to generate barcodes and QR codes. Whether you&amp;rsquo;re a beginner or have some coding experience, you&amp;rsquo;ll find this tutorial easy to follow. Let&amp;rsquo;s get started!
+Step 1: Setting Up Your Environment First, make sure you have Python installed on your computer.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 04 Apr 2023 10:59:54 -0400</pubDate>
@@ -22,15 +32,15 @@
 Currently, I am a developer for an e-commerce company. I specialize in Python, automation, scraping, Flask, Django, and databases. My technical proficiency has allowed me to build numerous tools that enhance productivity, streamline processes, and improve overall efficiency. My work focuses on developing innovative solutions to optimize product listings, automate repetitive tasks, and boost sales and customer satisfaction.</description>
     </item>
     
+    
     <item>
-      <title></title>
+      <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/</guid>
-      <description></description>
+      <description>Barcode Generator </description>
     </item>
-    
     
     
   </channel>
